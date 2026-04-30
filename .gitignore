@@ -1,0 +1,4 @@
+# Files containing secrets
+50CAMP_blog_bot/config.py
+50CAMP_blog_bot/mnt/outputs/50CAMP_blog_bot/config.py
+もふもふ村/generate_images.py

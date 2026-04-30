@@ -1,0 +1,184 @@
+===タイトル===
+Grokで画像も動画も作れる！撮影ゼロ・機材ゼロでTikTokを始めた53歳の話【Grok Imagine入門】
+
+===本文===
+
+[st-kaiwa1]ぐりお、最近TikTokにキャンピングカーの動画あげてるやん。あれ自分で撮ったん？めちゃキレイやったで[/st-kaiwa1]
+
+[st-kaiwa2]あはは、実はあれ一回も外出てないんだよね[/st-kaiwa2]
+
+[st-kaiwa1]はぁ？？部屋から出てへんのに動画できてるってどういうこと？幽霊か何かか？[/st-kaiwa1]
+
+[st-kaiwa2]（笑）AIで作ったんだよ。「キャンピングカーが山道走ってる映像」って入力したら出てきた[/st-kaiwa2]
+
+[st-kaiwa1]えええ！？それGrokのやつ？あれって文章読んだりするやつちゃうの？[/st-kaiwa1]
+
+[st-kaiwa2]それが、Grokって画像も動画も作れるんだよ。知らない人めちゃくちゃ多いんだけど、損してると思って今日記事にした！[/st-kaiwa2]
+
+[st-kaiwa1]なんやそれ、全然知らんかった。ちゃんと教えてや！[/st-kaiwa1]
+
+---
+
+去年の私は、TikTokを始めようとするたびに壁にぶつかってた。
+
+撮影場所を探して、体調が悪くても「今日は撮らないと」って外に出てた。
+
+手帳2級で体力に限界がある私には、それだけでもう限界だった。
+
+今は違う。部屋から一歩も出ずに、動画の素材を作っている。
+
+使っているのは、<a href="https://x.ai/grok" target="_blank" rel="noopener noreferrer">Grok</a>というAIの「<strong>Grok Imagine</strong>」という機能。一言入力するだけで、画像や動画素材が生成される。機材ゼロ。撮影ゼロ。11歳の息子の隣に座ったまま、仕事ができてる。
+
+今日はそのやり方を、初心者の方でもわかるように書いていくよ。
+
+<h2>GrokとGrok Imagineって何？</h2>
+
+<h3>Grokとは</h3>
+
+GrokはイーロンマスクのxAI（エックスエーアイ）が開発したAIです。X（旧Twitter）のチャットAIとして有名ですが、実は<strong>画像生成・動画生成もできる</strong>多機能なAI。X（旧Twitter）のアカウントがあれば無料で使い始められます。
+
+[st-mybox title="Grokでできること" fontawesome="fa-check-circle" color="#00BCD4" bordercolor="#00BCD4" bgcolor="#f0f9ff" borderwidth="2" borderradius="5" titleweight="bold"]
+・AIチャット（質問・相談・文章生成など）
+・<strong>画像生成</strong>（テキストを入力→画像が完成）
+・<strong>動画生成</strong>（テキストや画像→動画に変換）
+・X（旧Twitter）との連携
+[/st-mybox]
+
+<h3>Grok Imagineとは</h3>
+
+<strong>Grok Imagine</strong>は、Grokの中にある画像・動画生成機能の名前です。内部で動いているエンジンは「Aurora（オーロラ）」と呼ばれています。
+
+テキスト（文字）を入力するだけで、AIが画像や動画を作ってくれます。CanvaやAdobe製品は不要。スマホひとつあればOK。
+
+[st-kaiwa1]え、動画も作れるん！？それすごくない？？[/st-kaiwa1]
+
+[st-kaiwa2]そうなの！しかも一言日本語で「〇〇の動画を作って」と入れるだけ。難しい操作は一切なし[/st-kaiwa2]
+
+<h2>料金は？無料で使える？</h2>
+
+[st-mybox title="⚠️ 2026年3月以降の重要変更" fontawesome="fa-exclamation-circle" color="#F44336" bordercolor="#F44336" bgcolor="#fff5f5" borderwidth="2" borderradius="5" titleweight="bold"]
+2026年3月より、<strong>無料版ではGrok Imagineの画像・動画生成が使えなくなりました。</strong>
+画像・動画生成には有料プランへの加入が必要です。
+[/st-mybox]
+
+[st-kaiwa1]え！無料で使えへんの？[/st-kaiwa1]
+
+[st-kaiwa2]うん、残念ながら今は有料プランが必要になったんだよ。でも月1000円以下から使えるし、他の有料AIサービスと比べると全然安いよ[/st-kaiwa2]
+
+[st-mybox title="Grokのプラン比較（2026年時点）" fontawesome="fa-yen-sign" color="#009688" bordercolor="#009688" bgcolor="#f0faf9" borderwidth="2" borderradius="5" titleweight="bold"]
+<table>
+<tr><th>プラン</th><th>月額（目安）</th><th>Grok Imagineで画像・動画</th></tr>
+<tr><td>無料版</td><td>無料</td><td>❌ 使えない</td></tr>
+<tr><td>X Premium（旧Twitter Blue）</td><td>約980円〜</td><td>✅ 使える（回数制限あり）</td></tr>
+<tr><td>SuperGrok</td><td>約4,500円〜</td><td>✅ <strong>実質作り放題！</strong></td></tr>
+</table>
+
+※料金・仕様は変更される場合があります。最新情報は<a href="https://x.ai/grok" target="_blank" rel="noopener noreferrer">Grok公式サイト</a>でご確認ください。
+[/st-mybox]
+
+[st-kaiwa1]4,500円か〜。ちょっと高く感じるな[/st-kaiwa1]
+
+[st-kaiwa2]わかる。でも私、SuperGrokにしてから画像も動画も実質作り放題になったよ。毎日ガンガン素材作っても制限が全然気にならない。撮影に外出するコスト考えたら、むしろ安いくらい[/st-kaiwa2]
+
+[st-kaiwa1]確かに、機材レンタルとか交通費とか考えたらそっちのほうが高くつくもんな[/st-kaiwa1]
+
+[st-kaiwa2]そう！まずはX Premiumで試してみて、使い続けそうならSuperGrokに上げるのが無難だと思う[/st-kaiwa2]
+
+<h2>Grok Imagineの使い方（ステップ）</h2>
+
+[st-mybox title="用意するもの" fontawesome="fa-list-check" color="#4CAF50" bordercolor="#4CAF50" bgcolor="#f0fff0" borderwidth="2" borderradius="5" titleweight="bold"]
+・X（旧Twitter）のアカウント
+・スマホかパソコン
+・それだけ！カメラも機材も不要
+[/st-mybox]
+
+<h3>ステップ① Grokにアクセスする</h3>
+
+X（旧Twitter）にログインして、左側のメニューから「Grok」をタップ（クリック）します。スマホのXアプリからも使えます。または<a href="https://x.ai/grok" target="_blank" rel="noopener noreferrer">grok.com</a>から直接アクセスもできます。
+
+<h3>ステップ② 作りたいものを日本語で入力する</h3>
+
+チャット画面に「〇〇の画像を作って」や「〇〇の動画を作って」と入力するだけ。Grok Imagineが自動で動きます。
+
+<h3>ステップ③ プロンプト（指示文）を入れる</h3>
+
+「プロンプト」はAIへの指示文のこと。難しく考えなくてOK。普通の日本語で書けばちゃんと動きます。
+
+[st-mybox title="プロンプトの例" fontawesome="fa-lightbulb" color="#9C27B0" bordercolor="#9C27B0" bgcolor="#fdf0ff" borderwidth="2" borderradius="5" titleweight="bold"]
+<strong>画像の例</strong>
+・「夕暮れの海岸をひとりで歩く女性の後ろ姿、映画のような雰囲気で」
+・「明るいカフェの窓際に置かれたコーヒーカップ、おしゃれな雰囲気で」
+・「秋の田舎道、落ち葉と夕日、温かい色調で」
+
+<strong>動画の例</strong>
+・「キャンピングカーが山の中の道をゆっくり走っている映像」
+・「夜の焚き火が静かに燃えているシーン、6秒」
+[/st-mybox]
+
+<h3>ステップ④ 画像・動画をダウンロードする</h3>
+
+生成されたら長押し（スマホ）またはマウス右クリック（パソコン）でダウンロード。そのままSNSに使えます。
+
+[st-kaiwa1]これダウンロードしたら、あとはどうするん？編集とかいるん？[/st-kaiwa1]
+
+[st-kaiwa2]動画編集アプリで音楽やテキストを乗せるだけ！編集のやり方はまた別の記事で書くね[/st-kaiwa2]
+
+<h2>私のTikTok素材としての使い方</h2>
+
+私がGrok Imagineを使う目的は主にひとつ、「TikTokの動画素材づくり」です。
+
+TikTokって「顔出し必須」「毎日撮影しなきゃ」って思ってる人が多いけど、そんなことない。
+
+Grok Imagineで作った画像や動画をスライドショーやショート動画にして投稿できます。私の場合は「キャンピングカー生活」「副業の話」「50代の日常」みたいなテーマで素材を作ってる。
+
+[st-kaiwa1]顔も映らんし、外に出なくていいし、機材もいらんって、それって最高やん[/st-kaiwa1]
+
+[st-kaiwa2]そう！手帳2級で体力に限界がある私にとって、「外に出なくていい」は本当に大きい。体調が悪い日でも、息子の隣に座ったままコンテンツが作れるから[/st-kaiwa2]
+
+<h3>私の制作フロー</h3>
+
+[st-mybox title="ぐりおのGrok Imagine活用フロー" fontawesome="fa-redo" color="#E91E63" bordercolor="#E91E63" bgcolor="#fff0f5" borderwidth="2" borderradius="5" titleweight="bold"]
+① テーマを決める（例：「今週のキャンピングカー製作の話」）
+② Grok Imagineに「このシーンっぽい画像（動画）を作って」と入力
+③ 数枚の素材を生成・ダウンロード
+④ 動画編集アプリで音楽やテキストを追加
+⑤ TikTokに投稿して完成
+
+外での撮影ゼロ。機材ゼロ。これが私のやり方。
+[/st-mybox]
+
+<h2>注意点</h2>
+
+[st-mybox title="使う前に知っておいてほしいこと" fontawesome="fa-exclamation-triangle" color="#F44336" bordercolor="#F44336" bgcolor="#fff5f5" borderwidth="2" borderradius="5" titleweight="bold"]
+・無料版は生成回数に制限あり
+・商用利用の可否は最新の<a href="https://x.ai/grok" target="_blank" rel="noopener noreferrer">利用規約</a>を必ず確認すること
+・著名人・特定キャラクターの生成は規約に注意
+・生成内容はAI学習に使われる場合あり
+[/st-mybox]
+
+<h2>まとめ</h2>
+
+XのAIとして有名なGrokには、<strong>Grok Imagine</strong>という画像・動画生成機能があります。
+
+機材なし。撮影なし。外出なし。テキストを入力するだけで、SNSに使える素材が完成します。
+
+53歳・シングルマザー・手帳2級・自己破産経験のある私が実際にやれてることだから、「難しそう」って思ってる人にこそ試してほしい。
+
+私が使っているのは月額約4,500円の<strong>SuperGrok</strong>。このプランにすると、画像も動画も実質作り放題になる。毎日ガンガン素材を作っても制限が気にならないから、コンテンツ制作をちゃんとやりたい人にはこっちがおすすめ。
+
+まずはX Premiumで試してみて、気に入ったらSuperGrokに上げるのがいちばんスムーズだと思う。
+
+▶ <a href="https://x.ai/grok" target="_blank" rel="noopener noreferrer">Grok公式サイトはこちら</a>
+
+[st-kaiwa1]よっしゃ！私もやってみる。まずXのアカウント作るとこから始めるわ！[/st-kaiwa1]
+
+[st-kaiwa2]そこから始めてOK！何か詰まったらコメントで聞いてね😊[/st-kaiwa2]
+
+===カテゴリー===
+副業
+
+===タグ===
+AI, Grok, GrokImagine, TikTok, 動画素材, 初心者, 53歳, 在宅副業
+
+===キャッチフレーズ（メタディスクリプション）===
+Xで有名なGrokには画像・動画生成機能「Grok Imagine」があります。撮影ゼロ・機材ゼロでTikTok素材を作る方法を、53歳・手帳2級のぐりおが初心者向けにわかりやすく解説。在宅副業・SNS運用を始めたい方必見。
